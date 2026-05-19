@@ -46,9 +46,9 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Botões de navegação
     const buttons = [
-        { id: 'home', name: '🏠 HOME' },
-        { id: 'team', name: '👥 TEAM' },
-        { id: 'servers', name: '🖥️ SERVERS' }
+        { id: 'home', name: 'HOME' },
+        { id: 'team', name: 'TEAM' },
+        { id: 'servers', name: '/DISK OPEN' }
     ];
     
     buttons.forEach(btn => {
